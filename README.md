@@ -10,6 +10,6 @@ Techniques:
 
 2. Time sensitive game development: use delta time to coordinate the updates of each component.
 
-3. Multithread programming: game loop and listener of events. 
+3. Multithread programming: game loop and event listeners. 
 
 4. This project has an excellent code structure. Each components are written in its own class. The dependencies among them are well organized in the code.
